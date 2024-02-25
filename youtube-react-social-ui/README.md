@@ -1,17 +1,18 @@
 Social Media Platform using React.js
+
 Welcome to the Social Media Platform project built using React.js! This project aims to create a basic social media platform where users can interact, share posts, connect with friends, and more. The platform provides a foundation that you can extend and customize to create your own unique social media experience.
 
 Features
 
-User registration and authentication
-User profiles with profile pictures and bio
-News feed displaying posts from friends
-Post creation and deletion
-Like on posts
-Follow users and see their posts on the home feed
-Unfollow users
-User search functionality
-Responsive and user-friendly design
+User registration and authentication,
+User profiles with profile pictures and bio,
+News feed displaying posts from friends,
+Post creation and deletion,
+Like on posts,
+Follow users and see their posts on the home feed,
+Unfollow users,
+User search functionality,
+Responsive and user-friendly design.
 
 Usage
 
